@@ -1,0 +1,6 @@
+scikit-learn==1.5.1
+scipy==1.14.0
+SimpleITK==2.3.1
+batchgenerators
+ultralytics==8.2.63
+MedPy
